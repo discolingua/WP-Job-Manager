@@ -1,6 +1,7 @@
 <?php
 /**
- * Job listing in the loop.
+ * Job listing in the loop. 
+ * Jobs are loading via javascript, which gets called by wp_footer() in your theme's footer.php.
  *
  * This template can be overridden by copying it to yourtheme/job_manager/content-job_listing.php.
  *
